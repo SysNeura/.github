@@ -8,6 +8,14 @@
 This is SysNeura.
 This organization focuses on developing things like Operating Systems and Apps ( maybe ).
 
+### Our Teams:
+<div style="display: flex; align-items: center;"> <img src="https://avatars.githubusercontent.com/t/10795445?s=116&v=4" alt="Team OSDev" style="height: 1em;">
+  <span>
+    <a href="https://github.com/orgs/SysNeura/teams/osdev">Team OSDev:</a>
+    This team focuses on Operating System Development
+  </span>
+</div>
+
 ### How to Reach us
 
 - **Email:** [sysneura@gmail.com](mailto:sysneura@gmail.com)
